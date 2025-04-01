@@ -2,6 +2,8 @@
 
 **Roblox Client Cookie Stealer** is a Python script designed to retrieve, decode, and decrypt Roblox cookies stored on your Windows machine. The script extracts the .ROBLOSECURITY cookie, It then prints the full cookie data
 
+⭐ Feel free to star this project if you use it⭐
+
 # Important Warning:
 - Never share your Roblox cookies with anyone. Sharing these cookies allows someone to log in as you and steal your items and Robux.
 
@@ -51,7 +53,8 @@ Final Output:
 ```
 This will print the .ROBLOSECURITY cookie, and all the data
 
-## Feel free to open Issue/Pull Requests if you need something
+## Feel free to open Issue/Pull Requests if you need something 
+## 
 ## Disclaimer
 This script is for educational purposes only. The author of this repository is not responsible for any misuse or unauthorized access to Roblox accounts. Please use this script responsibly and only on accounts that you own.
 
